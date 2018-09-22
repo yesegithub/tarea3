@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//VM15028 Jose Alvaro Vasquez Marroquin
 int main(){
 	printf("\n ingrese el numero de alementos para las dos listas \n");
 	int tamanio,seleccion;
