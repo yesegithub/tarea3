@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+//VM15028 Jose Alvaro Vasquez Marroquin
 int main() {
 	int numero1,numero2;
 	printf("ingrese el primer numero \n");
